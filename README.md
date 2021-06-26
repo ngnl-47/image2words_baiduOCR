@@ -1,0 +1,2 @@
+# image2words_baiduOCR
+使用百度OCR批量识别转换图片到文字
